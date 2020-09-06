@@ -1,0 +1,5 @@
+*.swp
+env_mfdw
+db.sqlite3
+__pycache__
+
